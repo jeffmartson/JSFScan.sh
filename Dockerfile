@@ -1,5 +1,5 @@
 #FROM ubuntu:latest
-FROM golang:latest
+FROM golang:1.22.4
 MAINTAINER bolli95 "maxlukasboll@gmail.com"
 
 # first set the right working dir
